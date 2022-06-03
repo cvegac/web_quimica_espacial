@@ -86,7 +86,7 @@ $countVisitsToday = count($result->fetch_all(MYSQLI_ASSOC));
   <!-- End Navbar -->
 
   <header class="header-2">
-    <div class="page-header min-vh-75 relative" style="background-image: url('../assets/img/bg2.jpg')">
+    <div class="page-header min-vh-75 relative" style="background-image: url('https://images.pexels.com/photos/6074935/pexels-photo-6074935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')">
       <span class="mask bg-gradient-primary opacity-4"></span>
       <div class="container">
         <div class="row">
