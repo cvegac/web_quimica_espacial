@@ -137,7 +137,7 @@ $countVisitsToday = count($result->fetch_all(MYSQLI_ASSOC));
               <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                 <a class="d-block blur-shadow-image">
                   <center>
-                    <img src="../assets/img/G1/1.JPG" alt="img-colored-shadow" class="img-fluid border-radius-lg">
+                    <img src="../assets/img/G1/1.jpg" alt="img-colored-shadow" class="img-fluid border-radius-lg">
                   </center>
                 </a>
               </div>
