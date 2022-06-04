@@ -201,6 +201,77 @@ $countVisitsToday = count($result->fetch_all(MYSQLI_ASSOC));
           </div>
         </div>
       </div>
+      <div class="container">
+        <div class="row">
+          <div class="row justify-content-center text-center my-sm-3">
+            <div class="col-lg-8">
+              <h2 class="text-dark mb-0">ACTIVIDAD DE APRENDIZAJE:</h2>
+              <p class="lead">Pongamos a prueba lo aprendido.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
+            <div class="rotating-card-container">
+              <div class="card card-rotate card-background shadow-primary mt-md-0 mt-5">
+                <div class="front front-background" style="background-image: url(https://images.pexels.com/photos/3800795/pexels-photo-3800795.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260); background-size: cover;">
+                  <div class="card-body py-7 text-center">
+                    <i class="material-icons text-white text-4xl my-3">touch_app</i>
+                    <h3 class="text-white">Crucigrama</h3>
+                    <p class="text-white opacity-8">Resuelve el siguiente crucigrama con solo 8 palabras</p>
+                  </div>
+                </div>
+                <div class="back back-background" style="background-image: url(https://images.pexels.com/photos/3800795/pexels-photo-3800795.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260); background-size: cover;">
+                  <div class="card-body pt-7 text-center">
+                    <h3 class="text-white"> Realiza este juego sobre la función de los líquidos biológicos!</h3>
+                    <a href="https://puzzel.org/acrostic/play?p=-N2i-X8fhb3fMhBpONpu" target="_blank" class="btn btn-white btn-sm w-50 mx-auto mt-3">A jugar!</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
+            <div class="rotating-card-container">
+              <div class="card card-rotate card-background shadow-primary mt-md-0 mt-5">
+                <div class="front front-background" style="background-image: url(https://images.pexels.com/photos/3800795/pexels-photo-3800795.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260); background-size: cover;">
+                  <div class="card-body py-7 text-center">
+                    <i class="material-icons text-white text-4xl my-3">touch_app</i>
+                    <h3 class="text-white">Sopa de Letras</h3>
+                    <p class="text-white opacity-8">Resuelve la siguiente sopa de letras con solo 8 palabras</p>
+                  </div>
+                </div>
+                <div class="back back-background" style="background-image: url(https://images.pexels.com/photos/3800795/pexels-photo-3800795.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260); background-size: cover;">
+                  <div class="card-body pt-7 text-center">
+                    <h3 class="text-white">Realiza estos juegos sobre la toma de muestras!</h3>
+                    <a href="https://es.educaplay.com/recursos-educativos/12221529-toma_de_muestras.html" target="_blank" class="btn btn-white btn-sm w-50 mx-auto mt-3">A jugar!</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-10 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
+            <div class="rotating-card-container">
+              <div class="card card-rotate card-background shadow-primary mt-md-0 mt-5">
+                <div class="front front-background" style="background-image: url(https://images.pexels.com/photos/3800795/pexels-photo-3800795.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260); background-size: cover;">
+                  <div class="card-body py-7 text-center">
+                    <i class="material-icons text-white text-4xl my-3">touch_app</i>
+                    <h3 class="text-white">Criptograma</h3>
+                    <p class="text-white opacity-8">Resuelve la siguiente criptograma con solo 8 palabras</p>
+                  </div>
+                </div>
+                <div class="back back-background" style="background-image: url(https://images.pexels.com/photos/3800795/pexels-photo-3800795.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260); background-size: cover;">
+                  <div class="card-body pt-7 text-center">
+                    <h3 class="text-white">Realiza estos juegos sobre la definición de líquidos biológicos!</h3>
+                    <a href="https://puzzel.org/es/cryptogram/play?p=-N2i6DDCSzwZzz2fB0uT" target="_blank" class="btn btn-white btn-sm w-50 mx-auto mt-3">A jugar!</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 
 
